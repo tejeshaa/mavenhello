@@ -1,5 +1,5 @@
 package com.neo;
 
 public class Test {
-string int =dddsdsa;
+string int =100;	
 }
