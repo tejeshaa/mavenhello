@@ -1,5 +1,9 @@
 package com.neo;
 
 public class Test {
-string int =100;	
+int a = 100;
+
+ public void display(){
+	 System.out.println("hello this is test ");
+ }
 }
